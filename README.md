@@ -1,3 +1,3 @@
 # nnets-from-scratch
 
-Building neural networks from scratch, using numpy, WITHOUT using Keras, Torch, TensorFlow
+Built Recurrent neural network from mathematical fundamentals without using deep learning libraries. 
