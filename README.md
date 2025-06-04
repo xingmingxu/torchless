@@ -1,4 +1,4 @@
-# Neural Networks (Feed Forward, RNN) from Scratch
+# Torchless -- Deep Learning without Frameworks
 
 The main objective of this project is to explore how to implement deep learning structures from scratch by using their underlying mathematical principles, rather than relying on existing machine learning libraries and frameworks. Examining how neural networks work internally has been extremely valuable towards building a personal understanding of the fundamental NNet architectures that modern AI runs on.
 
